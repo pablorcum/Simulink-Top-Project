@@ -38,4 +38,4 @@ jobs:
         uses: matlab-actions/run-command@v1.0.1
         with:
           # Script, function, or statement to execute
-          command: myfile1; myfile2;
+          command: openProject(pwd); myfile1; myfile2;
