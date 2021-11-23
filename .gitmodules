@@ -1,0 +1,6 @@
+[submodule "Simulink-Ref-Project-1"]
+	path = Simulink-Ref-Project-1
+	url = git@github.com:pablorcum/Simulink-Ref-Project-1.git
+[submodule "Simulink-Ref-Project-2"]
+	path = Simulink-Ref-Project-2
+	url = git@github.com:pablorcum/Simulink-Ref-Project-2.git
